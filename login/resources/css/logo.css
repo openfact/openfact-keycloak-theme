@@ -19,7 +19,7 @@ div.kc-logo-text {
     background-image: url('../img/openfact-logo.png');
 }
 
-.login-pf-page {
+.login-pf body {
     background: url('../img/background.jpg') no-repeat center center fixed;
 }
 
@@ -32,7 +32,7 @@ div.kc-logo-text {
     color: #fff;
 }
 
-.kc-form {
+#kc-form {
     color: #fff;
 }
 
