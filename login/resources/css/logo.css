@@ -35,12 +35,3 @@ div.kc-logo-text {
 #kc-form {
     color: #fff;
 }
-
-@media (max-width: 767px) {
-    #kc-page-title {
-        color: #363636 !important;
-    }
-    #kc-form {
-        color: #363636 !important;;
-    }
-}
