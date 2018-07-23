@@ -18,3 +18,29 @@
 div.kc-logo-text {
     background-image: url('../img/openfact-logo.png');
 }
+
+.login-pf-page {
+    background: url('../img/background.jpg') no-repeat center center fixed;
+}
+
+.card-pf {
+    border-radius: 0 33% / 0 11%;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+#kc-page-title {
+    color: #fff;
+}
+
+.kc-form {
+    color: #fff;
+}
+
+@media (max-width: 767px) {
+    #kc-page-title {
+        color: #363636 !important;
+    }
+    #kc-form {
+        color: #363636 !important;;
+    }
+}
