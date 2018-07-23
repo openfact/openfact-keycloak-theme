@@ -17,4 +17,5 @@
 
 .navbar-title {
     background-image: url('../img/openfact-logo.png');
+    width: 150px;
 }
